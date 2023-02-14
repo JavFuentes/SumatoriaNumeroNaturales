@@ -1,3 +1,7 @@
+/**
+ * @author JavFuentes
+ *
+ */
 public class SumatoriaNumerosNaturales {	
 	private int numero;
 		
